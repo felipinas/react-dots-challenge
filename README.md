@@ -1,6 +1,6 @@
 # React dots challenge
 
-That's a challenge normally request in React interviews.
+That's a challenge normally requested in React interviews.
 
 ## Requirements
 
