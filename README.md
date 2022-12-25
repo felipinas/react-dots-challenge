@@ -17,3 +17,7 @@ That's a challenge normally request in React interviews.
 ## Reference (where i found this challenge)
 
 - [Fernando Ferrari repo](https://github.com/nandokferrari/fernandev-react-challenge-01)
+
+## Result
+
+- [Deploy on vercel](https://react-dots-challenge-felipinas.vercel.app/)
